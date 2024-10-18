@@ -9400,7 +9400,7 @@ export const SKILLS = {
     },
     outdoors_ranger_harvest_02: {
         title: "",
-        skillPoints: 4,
+        skillPoints: 0,
         preReqs: ["outdoors_ranger_harvest_01"],
         xp: {
             id: "scout",
