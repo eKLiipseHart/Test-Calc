@@ -20192,7 +20192,7 @@
                 },
                 crafting_droidengineer_blueprints_03: {
                     title: "",
-                    skillPoints: 3,
+                    skillPoints: 0,
                     preReqs: ["crafting_droidengineer_blueprints_02"],
                     xp: {
                         id: "crafting_droid_general",
